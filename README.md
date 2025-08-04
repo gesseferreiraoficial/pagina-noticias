@@ -1,4 +1,4 @@
 # pagina-noticias
-Pagina de notícias
+Página de notícias
 
 https://gesseferreiraoficial.github.io/pagina-noticias/
